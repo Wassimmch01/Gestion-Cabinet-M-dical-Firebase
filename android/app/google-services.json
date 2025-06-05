@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745608765464",
+    "project_id": "cabinet-medical-app-eedfc",
+    "storage_bucket": "cabinet-medical-app-eedfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745608765464:android:de548fb5bf946c4514a36d",
+        "android_client_info": {
+          "package_name": "com.example.cabinet_medical_maria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshSLtm5nu5LFjwxrY_TJUVN1-BltYjtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
