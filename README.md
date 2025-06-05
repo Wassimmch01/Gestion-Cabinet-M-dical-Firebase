@@ -1,16 +1,17 @@
-# cabinet_medical_maria
 
-A new Flutter project.
+Gmail : fluttermaria4@gmail.com
+Mot de passe Gmail :Flutter2001
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Compte admine Firesbase Auth :
+Email : admin@cabinet.com
+mot de passe : Admin1234
 
-A few resources to get you started if this is your first Flutter project:
+Compte de test : 
+Docteur :
+Email : abdou@abdou.abdou
+mot de passe : abdou123
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+patient : 
+Email: maria@maria.maria
+mot de passe : maria123
